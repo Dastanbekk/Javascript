@@ -105,5 +105,20 @@
 
 
 
+// --------------------------------------Numbers
+
+// let comments = 15;
+// // let result = comments - 5 
+// // console.log(result)
+
+
+// // NaN - Not a Number 
+
+// let result = comments / "Assalom"
+// console.log(result)
+
+
+
+
 
 
