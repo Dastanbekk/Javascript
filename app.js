@@ -122,3 +122,17 @@
 
 
 
+// -------------------------------------Template String
+
+// const title = "Rastamojka qachon ochiladi? yohud Manapoliya Respublikasi"
+// const author = "Lag'mon Markazi "
+// const likes = 4000
+
+// concatentation way - sodda va uzun variant 
+// let result = "Bu post nomi " + title + ' ' + author + "tomonidan yozilgan. " + "va " + likes +"ta like bor";
+// console.log(result)
+
+
+// template string way -  oson va qisqa varianti
+// let result = `Bu post nomi ${title} ${author} tomonidan yozilgan va ${likes}ta like bor`
+// console.log(result)
