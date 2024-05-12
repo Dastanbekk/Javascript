@@ -136,3 +136,22 @@
 // template string way -  oson va qisqa varianti
 // let result = `Bu post nomi ${title} ${author} tomonidan yozilgan va ${likes}ta like bor`
 // console.log(result)
+
+
+
+
+
+// --------------------------------------Array - Massivlar
+// const mehmon1 = "Anvar"
+// const mehmon2 = "Ruslan"
+// const mehmon3 = "Jaxan"
+
+// const mehmonlar  = ["Anvar", "Ruslan", "Jaxan", "Abdusattor"];
+// // mehmonlar[0] = "Abdusattor";
+// const numbers = [1, 2, 3, 4]
+
+// // mehmonlar.push("Abduvali"); ------------- arrayda oxiriga bittasini qoshib qoyadi
+// // mehmonlar.pop("Abdusattor"); ------------ arrayda oxirdan bittasini qirqib oladi
+
+// let result  = mehmonlar.concat(numbers)
+// console.log(result + " " + result.length)
