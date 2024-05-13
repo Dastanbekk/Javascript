@@ -154,4 +154,18 @@
 // // mehmonlar.pop("Abdusattor"); ------------ arrayda oxirdan bittasini qirqib oladi
 
 // let result  = mehmonlar.concat(numbers)
-// console.log(result + " " + result.length)
+// let result2 = result.length
+// console.log(result2)
+// console.log(result)
+
+
+
+
+
+// ------------------------------------------Null va Undifined
+
+let age 
+// let age =null
+// null matematik jihatdan 0ga teng!!!
+
+console.log(age, age + 5, `Mening yoshim ${age} da`)
