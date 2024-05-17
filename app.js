@@ -164,8 +164,35 @@
 
 // ------------------------------------------Null va Undifined
 
-let age 
+// let age 
 // let age =null
 // null matematik jihatdan 0ga teng!!!
 
-console.log(age, age + 5, `Mening yoshim ${age} da`)
+// console.log(age, age + 5, `Mening yoshim ${age} da`)
+
+
+
+
+
+// ------------------------------------------Booleans & Comparisons
+// console.log(true, false, "true", "false");
+
+
+
+// methods can return booleans
+
+// let email = "dastandev@gmail.com";
+// let result = email.includes("!");
+// console.log(result)
+
+
+//  comparison operators
+
+// let yosh = 19;
+
+// console.log(yosh == 20) no qattiy tenglik
+// console.log(yosh !=20 )  !-belgisi trueni false qiladi, falseni true qiladi
+
+// let ism = "dostonbek"
+
+// console.log(ism == "dostonbek")
