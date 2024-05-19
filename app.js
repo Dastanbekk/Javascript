@@ -196,3 +196,22 @@
 // let ism = "dostonbek"
 
 // console.log(ism == "dostonbek")
+
+
+
+
+
+// --------------------------------------------Kuchli va Kuchsiz taqqoslashlar
+
+// let age = 19;
+
+// kuchsiz taqqoslashlar (turli xil tiplar tengligi)
+// console.log(age == 19);
+// console.log(age == "19")
+// console.log(age != 19)
+
+// kuchli taqqoslashlar (turli xil tiplar teng bolmasligi)
+// console.log(age === 19)
+// console.log(age === "19")
+// console.log(age !== 19)
+// console.log(age !== "19")
