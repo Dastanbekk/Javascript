@@ -215,3 +215,20 @@
 // console.log(age === "19")
 // console.log(age !== 19)
 // console.log(age !== "19")
+
+
+
+
+
+// --------------------------------------------10-dars. Turlarni ozgartirish(Type conversion)
+// let natija = "19"
+
+// natija = Number(natija)    Qiymat string bolsa ham numberga ozgartirish yoli
+// console.log(typeof natija);
+
+
+// let result = String(19)     Qovis ichidagi Number bolsaham Stringga ozgartirish yoli
+// console.log(typeof result)
+
+// let result = Number("19") Qovis ichidagi String bolsaham Numberga ozgartirish yoli
+// console.log(typeof result)  typeof bu qiymatning String yoki Numberligini aniqlab beradi
