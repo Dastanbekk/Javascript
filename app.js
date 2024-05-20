@@ -232,3 +232,18 @@
 
 // let result = Number("19") Qovis ichidagi String bolsaham Numberga ozgartirish yoli
 // console.log(typeof result)  typeof bu qiymatning String yoki Numberligini aniqlab beradi
+
+
+
+
+
+// ---------------------------------------------11-dars Amaliyot
+
+// let ism = prompt("Ismingizni kiriting");
+
+// let result = ism.slice(1).toLowerCase()
+// let result2 = ism.charAt().toUpperCase()
+// let result3 = result2 + result
+
+
+// alert(`Salom, ${result3}`);   
