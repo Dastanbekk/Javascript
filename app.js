@@ -247,3 +247,39 @@
 
 
 // alert(`Salom, ${result3}`);   
+
+
+
+
+
+// --------------------------------------------12-dars For Loop
+
+// for (let i = 0; i < 15; i++){
+//     console.log()
+// }
+
+// const ismlar = ['Doston', 'Anvar','Ruslan'];
+
+// for(let i = 0; i < ismlar.length; i++){
+//     console.log(ismlar[i])
+// }
+
+
+// const cars = ['Damas', 'Matiz', 'Nexia', 'Spark','Tracker'];
+
+// for (let i = 0; i <cars.length; i++){
+//     console.log(cars[i])
+// }
+
+// const cars = "Damas";
+
+// let sorovnoma = prompt('Moshina markasini tanglang');
+
+
+
+// if (sorovnoma == cars) {
+//     alert('Tabriklaymiz')
+// }
+// else{
+//     alert('Kechirasiz')
+// }
